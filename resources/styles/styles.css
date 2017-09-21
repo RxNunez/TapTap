@@ -1,0 +1,6 @@
+body {
+  background-image: url("/resources/images/background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  color: orange;
+}
